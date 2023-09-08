@@ -1,0 +1,12 @@
+.error-message{
+    color:red;
+}
+.custom-swal-popup {
+    top: -50%; 
+}
+.swal2-icon {
+    font-size: 9px !important; 
+  }
+.post-view-icon{
+    vertical-align: middle;
+}
